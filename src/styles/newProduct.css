@@ -1,0 +1,11 @@
+.d-block{
+    width: 400px !important;
+    height: 400px !important;
+    object-fit: contain;
+}
+
+.btn-add{
+    text-align: center;
+    align-items: center;
+    margin-top: 20px !important;
+}
